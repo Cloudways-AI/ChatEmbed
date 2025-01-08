@@ -47,7 +47,7 @@ const indexConfig = {
             verbose: true,
             contentBase: ['dist', 'public'],
             host: 'localhost',
-            port: 5678,
+            port: 3552,
           }),
           livereload({ watch: 'dist' }),
         ]
